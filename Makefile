@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -pthread
 
-SOURCES = 7361.c
+SOURCES = main.c
 EXECUTABLE = program
 
 all: $(EXECUTABLE)
